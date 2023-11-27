@@ -21,4 +21,6 @@ You can provide the path to the git repo to be analyzed in `./src/client/src/con
 
 ## Screenshot
 
-![alt text](./screenshots/screenshot.png)
+![screenshot](https://github.com/Ram-the-coder/code-hotspots/assets/42577719/e6280c18-b486-4b5b-94c5-a6cff1b29f1b)
+
+
