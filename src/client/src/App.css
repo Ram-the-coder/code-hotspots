@@ -1,0 +1,13 @@
+section {
+  margin: 2.5rem 0;
+}
+
+h1,
+h2 {
+  margin-bottom: 2rem;
+}
+
+body {
+  font-family: ui-monospace, "Cascadia Mono", "Segoe UI Mono", "Liberation Mono",
+    Menlo, Monaco, Consolas, monospace;
+}
